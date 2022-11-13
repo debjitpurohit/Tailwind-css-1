@@ -28,4 +28,4 @@ module.exports = {
 
 
 # { npx tailwindcss init confdebu --full } for customization of tailwind.config.js file and add your own css as a object in the tailwind.config.js file tobe direct theme e nh extended e dite hbe thle overwrite hbe nah but {screen} add korte hole direct theme e diye overwrite krte hbe 
-#   add "build":  "vite build" in scripts of package.json for build then run { npm run build } that form a file in which u get the index and ready made css 
+#   add "build":  "vite build" in scripts of package.json for build then run { npm run build } that form a file named as dist where u can find your html and ready made css
