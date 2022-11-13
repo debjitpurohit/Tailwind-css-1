@@ -28,4 +28,4 @@ module.exports = {
 
 
 
-#####   add "build":  "vite build" in scripts of package.json for build then run { npm run build } that form a file in which u get the index and ready made css 
+#   add "build":  "vite build" in scripts of package.json for build then run { npm run build } that form a file in which u get the index and ready made css 
